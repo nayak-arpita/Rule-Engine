@@ -10,4 +10,4 @@ This project is a rule engine that evaluates eligibility based on user data.
 ## Installation
 Clone the repo and run:
 ```bash
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/nayak arpita /Rule-Engine.git
